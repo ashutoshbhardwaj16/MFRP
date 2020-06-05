@@ -1,0 +1,20 @@
+.navbar{
+    background-color: purple;
+    opacity: 95%;
+  }
+  .logg{
+    background-color: #3d2af5 !important;
+    color: white !important;
+    border-end-end-radius: 50% !important;  
+    border-color: teal;
+    border-radius: 15px;
+  }
+  .navv{
+    background-color: pink;
+  }
+  .imim{
+    background-color: teal;
+  }
+  .btn{
+    cursor: pointer;
+  }
